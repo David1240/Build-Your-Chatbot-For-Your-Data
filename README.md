@@ -8,3 +8,15 @@ In this project, you will create a chatbot for your own pdf file using Flask, a 
 Nama: David Hamonangan Sirait\
 Program: IBM Advance AI\
 Mentor: Siska Angraeni
+<br>
+
+# Tech
+- Flask
+- Flask_Cors
+- langchain
+- openai
+- pdf2image
+- tiktoken
+- chromadb
+- pypdf
+
